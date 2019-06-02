@@ -75,3 +75,5 @@ We're making a separate list of good papers to read. *Coming soon.*
 
 * [The Best of Universal Sentence/Word Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) - From the blog of Thomas Wolf, an NLP-Deep Learning researcher. Reviews the current state-of-the-art techniques in word embedding and sentence embedding techniques.
 
+## Footnotes
+This resource list is managed by the De La Salle University Machine Learning Group. Head over to the issues tab if you have any clarification, questions, or suggestions!
